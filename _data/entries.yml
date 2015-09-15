@@ -223,3 +223,10 @@
   description: "2PS assemble teams of experienced business professionals offering a wide variety of consultancy assistance to businesses."
   twitter: presentprofit
   facebook: presentprofit
+  
+- name: Jawb
+  category: company
+  url: jawb.io
+  description: Find jobs in the web industry across Canada
+  twitter: jawbio
+  facebook: jawbio
